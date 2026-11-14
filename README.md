@@ -9,4 +9,4 @@ Prof. Bruno Rafael Araújo Vasconcelos.
 - tests/ – testes do grupo (serão adicionados nas próximas entregas)
 
 ## Status
-Entrega 1 (14/11): plano de testes – link do documento enviado no Canvas
+Entrega 1 (14/11): plano de testes – link do documento enviado no Canvas.
